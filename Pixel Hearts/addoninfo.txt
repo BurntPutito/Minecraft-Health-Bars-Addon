@@ -1,9 +1,0 @@
-"AddonInfo"
-{
-	addonSteamAppID 	550
-	addontitle		"PixilHarts" 
-	addonversion		"1.0"
-	addontagline		"health bars" 
-	addonauthor 		"BurntPutito"
-	addonDescription 	"Testing"
-}
